@@ -1,0 +1,1 @@
+#Django chat App using redis, channels, django rest and jQuery
